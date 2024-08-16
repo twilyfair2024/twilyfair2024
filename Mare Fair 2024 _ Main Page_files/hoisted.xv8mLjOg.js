@@ -1,0 +1,1 @@
+import"./hoisted.BcY2K5JV.js";import"./index.DImtQWSj.js";document.addEventListener("scroll",()=>{window.location.pathname.includes("/main")&&(localStorage.getItem("scroll"),localStorage.setItem("scroll",window.scrollY.toString()))});
